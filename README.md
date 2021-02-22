@@ -1,1 +1,1 @@
-# docker-image-mongodump
+# docker-image-mysqldump
